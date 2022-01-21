@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋, I'm Davi Carlos
+
+## A backend enthusiast 
+
+- 🔭 I am currently working as an Infrastructure Analyst and I'm learning Java and SQL
+
 
 <!--
 **dcarllos/dcarllos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

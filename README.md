@@ -3,7 +3,7 @@
 ## A backend enthusiast 
 
 - 🔭 I am currently working as an Infrastructure Analyst and I'm learning Java and SQL
-
+- 📫 How to reach me: https://www.linkedin.com/in/davi-carlos-silva/
 
 <!--
 **dcarllos/dcarllos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

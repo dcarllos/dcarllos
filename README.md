@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Davi Carlos
 
-## A backend enthusiast 
+## A backend|mobile enthusiast 
 
-- 🔭 I am currently working as an Infrastructure Analyst and I'm learning Java and SQL
+- 🔭 I am currently working as an Infrastructure Analyst and I'm learning Java, SQL, and Android.
 - 📫 How to reach me: https://www.linkedin.com/in/davi-carlos-silva/
 
 <!--
